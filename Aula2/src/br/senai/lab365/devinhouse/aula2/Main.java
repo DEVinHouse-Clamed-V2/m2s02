@@ -1,4 +1,7 @@
-package objetos;
+package br.senai.lab365.devinhouse.aula2;
+
+import br.senai.lab365.devinhouse.entidades.Cliente;
+import br.senai.lab365.devinhouse.entidades.Conta;
 
 public class Main {
     public static void main(String[] args) {
@@ -29,13 +32,15 @@ public class Main {
         }
 
         Conta conta1 = new Conta();
-        conta1.titular = new Cliente();
-        conta1.titular.nome = "João";
+        Cliente titular = new Cliente();
+        titular.setNome("João");
+        conta1.setTitular(titular);
         conta1.depositar(10);
 
         Conta conta2 = new Conta();
-        conta2.titular = new Cliente();
-        conta2.titular.nome = "João";
+        Cliente titular2 = new Cliente();
+        titular2.setNome("João");
+        conta2.setTitular(titular2);
         conta2.depositar(10);
 
         if (conta1==conta2) {
