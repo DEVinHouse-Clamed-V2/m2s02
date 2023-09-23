@@ -1,0 +1,15 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "conta2".(Œ°Û®úÿÿÿÿ8ª­Ò«1
+W
+java:S1854
+":Remove this useless assignment to local variable "conta1".(ºá˜ç8«­Ò«1
+L	java:S106"+Replace this use of System.out by a logger.(Şñ‹ùûÿÿÿÿ8«­Ò«1
+]	java:S125"<This block of commented-out lines of code should be removed.(‡œØÀıÿÿÿÿ8«­Ò«1
+H
+java:S1481
+"+Remove this unused "conta1" local variable.(ºá˜ç8¬­Ò«1
+L	java:S106"+Replace this use of System.out by a logger.(Şñ‹ùûÿÿÿÿ8¬­Ò«1
+M
+java:S1481"+Remove this unused "conta2" local variable.(Œ°Û®úÿÿÿÿ8­­Ò«1
+L	java:S106"+Replace this use of System.out by a logger.(Şñ‹ùûÿÿÿÿ8­­Ò«1

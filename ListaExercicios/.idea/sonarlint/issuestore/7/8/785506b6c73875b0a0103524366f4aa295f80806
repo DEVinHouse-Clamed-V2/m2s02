@@ -1,0 +1,9 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(êõž»ûÿÿÿÿ8Æûªø«1
+G	java:S106
+"+Replace this use of System.out by a logger.(Ó‚–ù8Øûªø«1
+L	java:S106"+Replace this use of System.out by a logger.(‘à¸˜øÿÿÿÿ8Ùûªø«1
+G	java:S106"+Replace this use of System.out by a logger.(Š€¾ã8Ùûªø«1
+G	java:S106"+Replace this use of System.out by a logger.(ÍÛÓö8Úûªø«1
+R
+java:S1128"0Remove this unused import 'java.time.LocalDate'.(›‘¬èýÿÿÿÿ8ì¸´ø«1
